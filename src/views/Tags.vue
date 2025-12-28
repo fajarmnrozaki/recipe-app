@@ -47,7 +47,7 @@ onMounted(async () => {
 
 <style scoped>
 .badge:hover {
-  background-color: #e5e7eb;
+  background-color: #0e50d3;
 }
 </style>
 
